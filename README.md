@@ -33,3 +33,4 @@ npm start        # http://127.0.0.1:8765/
 | `game-data.js` | 由卡表数据生成，勿手改 |
 | `server.js` | 静态服务 + WebSocket 联机（房间码） |
 | `rules.html` | 规则速查 |
+
