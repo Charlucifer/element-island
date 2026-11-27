@@ -1,0 +1,17 @@
+{
+  "name": "element-island",
+  "version": "1.0.0",
+  "private": true,
+  "description": "元素岛：反应工坊 —— 化学资源转化桌游的网页版（同屏 + 联机）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.23.0"
+  }
+}
